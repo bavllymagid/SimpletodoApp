@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/completed_ch" android:title="@string/completed"/>
+    <item android:id="@+id/not_completed_ch" android:title="@string/not_completed"/>
+    <item android:id="@+id/all_list" android:title="@string/all_list"/>
+
+</menu>
